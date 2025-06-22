@@ -53,9 +53,9 @@ Turning complex training modules into micro-learning content and exploring creat
 - Streamlit, Azure, and Big Data tools
 
 ## 📫 Reach Me:
-LinkedIn: manisha-1a339b107
-GitHub: You’re already here 🙂
-Coming soon: My personal blog for data tutorials & stories
+- LinkedIn: manisha-1a339b107
+- GitHub: You’re already here 🙂
+- Coming soon: My personal blog for data tutorials & stories
 
 ## 😄 Pronouns:
 She/Her
