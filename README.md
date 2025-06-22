@@ -38,19 +38,19 @@ Helping learners build end-to-end projects using Azure, PySpark, and Streamlit, 
 I'm diving deeper into LLMs, GenAI, and Prompt Engineering, experimenting with APIs like Gemini and building interactive tools for the classroom. I believe AI literacy is the next essential skill, and I’m staying ahead to bring it to my trainees.
 
 ## 👯 Looking to Collaborate On:
-Beginner-friendly open-source data projects
-Real-world curriculum design in Data Engineering
-AI storytelling tools for LinkedIn and learning platforms
-Women in Tech mentorship programs
+- Beginner-friendly open-source data projects
+- Real-world curriculum design in Data Engineering
+- AI storytelling tools for LinkedIn and learning platforms
+- Women in Tech mentorship programs
 
 ## 🤔 Looking for Help With:
 Turning complex training modules into micro-learning content and exploring creative ways to teach cloud data pipelines and big data ecosystems without heavy infra.
 
 ## 💬 Ask Me About:
-How to break into Data Science/Data Engineering from scratch
-How to build a portfolio that actually lands interviews
-Teaching tech with empathy
-Streamlit, Azure, and Big Data tools
+- How to break into Data Science/Data Engineering from scratch
+- How to build a portfolio that actually lands interviews
+- Teaching tech with empathy
+- Streamlit, Azure, and Big Data tools
 
 ## 📫 Reach Me:
 LinkedIn: manisha-1a339b107
